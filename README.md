@@ -6,7 +6,9 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# DevOps React App Project
+
+![image](https://miro.medium.com/1*ucL7YQ2v8aaOy426soLPZA.png)
+## DevOps React App Project
 
 A modern, DevOps-focused React application designed to showcase CI/CD pipelines, cloud integration, and automated testing.
 
